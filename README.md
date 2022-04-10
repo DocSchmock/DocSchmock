@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DocSchmock
-- 👀 I’m interested in Python & Computational Chemistry
-- 🌱 I’m currently learning ...
+- 📍🌍 Dresden, Germany 🇩🇪
+- 👀 I’m interested in 🐍 Python & 💻⚛️ Computational Chemistry
 - 📫 How to reach me **0kursiv-belebend@icloud.com**
 
 <!---
